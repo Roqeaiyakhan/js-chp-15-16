@@ -1,5 +1,5 @@
 
-const animals = ["🐶", "😸", "🐘", "🐄"];
+const animals =["🐶", "😸", "🐘", "🐄"];
 // question from last lectures
 animals.push("🐯");
 let popped = animals.pop();
@@ -7,7 +7,7 @@ animals.push("🐀");
 popped = animals.pop();
 
 console.log(animals)
-console.log(popped)
+console.log(popped);
 
 // shift, removes 1 element from start of the array
 // const animals = ["🐶", "😸", "🐘", "🐄"];
